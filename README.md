@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bryan Escobar Landeta</h1>
+<h1 align="center">Hi 👋, I'm Bryan Escobar</h1>
 <h3 align="center">I'm a passionate software developer specialized in video game development.</h3>
 
-- 🔭 I’m currently working on **GHOR Videogame**
+- 🔭 I’m currently working on a personal videogame project.
 
 - 🌱 I’m currently learning **Lua, Multiplayer, VR, IA.**
 
