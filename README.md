@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bryan Escobar</h1>
+<h1 align="center">Hi, I'm Bryan Escobar</h1>
 <h3 align="center">I'm a passionate software developer specialized in video game development.</h3>
 
 - 🔭 I’m currently working on a personal videogame project.
