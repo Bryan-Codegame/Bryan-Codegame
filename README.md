@@ -17,3 +17,12 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryan-codegame&theme=dark" alt="bryan-codegame" /></p>
 <hr/>
 <p> :bookmark: I enjoy working in a collaborative environment and learning from other game developers. I also enjoy exploring new tools and technologies to enhance my work and stay up-to-date in the game development industry.</p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bryan-codegame&label=Profile%20views&color=364b59&style=flat-square" alt="bryan-codegame" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryan-codegame&show_icons=true&theme=dark&locale=en" alt="bryan-codegame" /></p>
