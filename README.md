@@ -15,7 +15,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryan-codegame&show_icons=true&theme=dark&locale=en&layout=compact" alt="bryan-codegame" /></p>
 <hr/>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryan-codegame&theme=dark" alt="bryan-codegame" /></p>
+<p align="center"><img  width="420" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryan-codegame&theme=dark" alt="bryan-codegame" /></p>
 <p> :bookmark: I enjoy working in a collaborative environment and learning from other game developers. I also enjoy exploring new tools and technologies to enhance my work and stay up-to-date in the game development industry.</p>
 
 <hr/>
@@ -23,5 +23,5 @@
 <p align="left">
 </p>
 
-<p align="center">&nbsp;<img  width="400"  align="center" src="https://github-readme-stats.vercel.app/api?username=bryan-codegame&show_icons=true&theme=dark&locale=en" alt="bryan-codegame" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryan-codegame&show_icons=true&theme=dark&locale=en" alt="bryan-codegame" /></p>
 
