@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate software developer specialized in video game development.</h3>
 
 - 🔭 I've worked as a programmer and interactive media designer with a focus on video game development.
-- :space_invader: My experience in game programming spans several areas including game mechanics, physics, artificial intelligence, graphics, and sound.
+- :space_invader: My experience in game programming spans several areas including game mechanics, physics, multiplayer, artificial intelligence, graphics, and sound.
 
 - 🌱 I’m currently learning **Verse, Multiplayer, VR, IA.**
 
