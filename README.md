@@ -26,3 +26,5 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryan-codegame&show_icons=true&theme=dark&locale=en" alt="bryan-codegame" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryan-codegame&show_icons=true&theme=dark&locale=en&layout=compact" alt="bryan-codegame" /></p>
