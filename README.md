@@ -23,5 +23,5 @@
 <p align="left">
 </p>
 
-<p align="center">&nbsp;<img  width="40"  align="center" src="https://github-readme-stats.vercel.app/api?username=bryan-codegame&show_icons=true&theme=dark&locale=en" alt="bryan-codegame" /></p>
+<p align="center">&nbsp;<img  width="400"  align="center" src="https://github-readme-stats.vercel.app/api?username=bryan-codegame&show_icons=true&theme=dark&locale=en" alt="bryan-codegame" /></p>
 
