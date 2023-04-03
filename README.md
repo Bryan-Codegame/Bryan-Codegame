@@ -1,8 +1,8 @@
-<h1 align="center">Hi :notebook_with_decorative_cover:, I'm Bryan Escobar</h1>
+<h1 align="center">Hi :grin:, I'm Bryan Escobar</h1>
 <h3 align="center">I'm a passionate software developer specialized in video game development.</h3>
 
 - 🔭 I've worked on game projects both as a team member and solo developer.
-- :space_invader: My experience in game programming spans several areas including game mechanics, physics, artificial intelligence, graphics, and sound
+- :space_invader: My experience in game programming spans several areas including game mechanics, physics, artificial intelligence, graphics, and sound.
 
 - 🌱 I’m currently learning **Verse, Multiplayer, VR, IA.**
 
