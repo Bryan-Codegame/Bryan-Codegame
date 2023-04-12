@@ -12,7 +12,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" alt="unity" width="40" height="40" style="fill: #ff0000;"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg" alt="unreal" width="40" height="40" style="fill: #ff0000;"/> </a> </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryan-codegame&show_icons=true&theme=dark&locale=en&layout=compact" alt="bryan-codegame" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=bryan-codegame&show_icons=true&theme=dark&locale=en&layout=compact" alt="bryan-codegame" /></p>
 <hr/>
 
 <p align="center"><img  width="440" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryan-codegame&theme=dark" alt="bryan-codegame" /></p>
@@ -23,5 +23,5 @@
 <p align="left">
 </p>
 
-<p align="center">&nbsp;<img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=bryan-codegame&show_icons=true&theme=dark&locale=en" alt="bryan-codegame" /></p>
+<p align="center">&nbsp;<img width="430" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bryan-codegame&show_icons=true&theme=dark&locale=en" alt="bryan-codegame" /></p>
 
