@@ -19,9 +19,7 @@
 <p> :bookmark: I enjoy working in a collaborative environment and learning from other game developers. I also enjoy exploring new tools and technologies to enhance my work and stay up-to-date in the game development industry.</p>
 
 <hr/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+//<h3 align="left">Connect with me:</h3>
 
 <p align="center">&nbsp;<img width="430" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bryan-codegame&show_icons=true&theme=dark&locale=en" alt="bryan-codegame" /></p>
 
