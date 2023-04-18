@@ -16,7 +16,7 @@
 <hr/>
 
 <p align="center"><img  width="440" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryan-codegame&theme=dark" alt="bryan-codegame" /></p>
-<p> :bookmark: I enjoy working in a collaborative environment and learning from other game developers. I also enjoy exploring new tools and technologies to enhance my work and stay up-to-date in the game development industry.</p>
+<p align="center"> :bookmark: I enjoy working in a collaborative environment and learning from other game developers. I also enjoy exploring new tools and technologies to enhance my work and stay up-to-date in the game development industry.</p>
 
 <hr/>
 <!--<h3 align="left">Connect with me:</h3> -->
