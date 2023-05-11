@@ -4,7 +4,7 @@
 - 🔭 I've worked as a programmer and interactive media designer with a focus on video game development.
 - :space_invader: My experience in game programming spans several areas including game mechanics, physics, multiplayer, artificial intelligence, graphics, and sound.
 
-- 🌱 I’m currently learning **Verse, Multiplayer, VR, IA.**
+- 🌱 I’m currently learning **Multiplayer, VR, IA.**
 
 - :mailbox_with_mail: How to reach me **bryanesc26@gmail.com**
 
