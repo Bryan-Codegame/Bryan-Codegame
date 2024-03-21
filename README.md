@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Verse, VR, IA, Perforce.**
 
-- :mailbox_with_mail: How to reach me **bryanesc26@gmail.com**
+- :mailbox_with_mail: How to reach me **bryanesc26@gmail.com, www.linkedin.com/in/bryan-gabriel-escobar-landeta-61a2571a2**
 
 <hr/>
 <h3 align="center">Languages and Tools:</h3>
